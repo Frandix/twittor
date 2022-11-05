@@ -11,8 +11,6 @@
     font-size: 16px;
     background-color: #dde1e2; 
     width: 100%;
-
-
     overscroll-behavior-y: contain;
     -webkit-user-select: none;
     -webkit-tap-highlight-color: transparent;
@@ -25,7 +23,7 @@
 }
 
 .seleccion {
-  margin-top: 6em;
+  margin-top: 5em;
   display: block;
   margin-bottom: 6em;
 }
